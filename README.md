@@ -270,4 +270,4 @@ Ems-platform/
 
 ## 📜 License & Copyright
 
-Developed by **Niraj Mandal** (`24EARIT036`) for the Major Capstone Engineering Project at **Arya College of Engineering and Information Technology (ACEIT)**, affiliated with **Rajasthan Technical University (RTU)**.
+Developed by **Niraj Kumar Mandal** (`24EARIT036`) for the Major Capstone Engineering Project at **Arya College of Engineering and Information Technology (ACEIT)**, affiliated with **Rajasthan Technical University (RTU)**.
